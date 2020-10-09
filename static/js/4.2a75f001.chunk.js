@@ -1,0 +1,2 @@
+(this["webpackJsonpsurvey-maker"]=this["webpackJsonpsurvey-maker"]||[]).push([[4],{450:function(e){e.exports=JSON.parse('{"app-name":"Creador de encuestas","settings.header":"Configuraciones","settings.locale":"Lugar"}')}}]);
+//# sourceMappingURL=4.2a75f001.chunk.js.map
